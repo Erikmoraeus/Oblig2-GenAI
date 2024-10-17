@@ -4,8 +4,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #070707;
 }
+/*backgroundimage is from https://www.craiyon.com/image/PpBIdfFdTsOIKVm_98EPsA*/
 canvas {
     border: 2px solid #000;
     background-image: url(images/craiyon_141358_can_you_create_a_photo_of_a_pixel_drifting_endeless_i_space_around_multiple_galaxies.png);
